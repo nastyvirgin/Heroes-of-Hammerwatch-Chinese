@@ -1579,11 +1579,11 @@
 	<string name="skills.sorcerer.ice-barrier.4">有60%几率使受到伤害减半并施加噬骨之寒.</string>
 
 	<string name="skills.sorcerer.frost-nova">冰霜新星</string>
-	<string name="skills.sorcerer.frost-nova.create">巫师向周围发射出一些冰霜碎片.</string>
-	<string name="skills.sorcerer.frost-nova.1">在身边召唤13个冰霜碎片,对敌人造成伤害.</string>
-	<string name="skills.sorcerer.frost-nova.2">在身边召唤17个冰霜碎片,对敌人造成伤害.</string>
-	<string name="skills.sorcerer.frost-nova.3">在身边召唤21个冰霜碎片,对敌人造成伤害.</string>
-	<string name="skills.sorcerer.frost-nova.4">在身边召唤25个冰霜碎片,对敌人造成伤害.</string>
+	<string name="skills.sorcerer.frost-nova.create">巫师向周围发射出一些冰球碎片.</string>
+	<string name="skills.sorcerer.frost-nova.1">在身边召唤13个冰霜碎片,每个冰球碎片造成12点混合伤害.</string>
+	<string name="skills.sorcerer.frost-nova.2">在身边召唤15个冰霜碎片,每个冰球碎片造成16点混合伤害.</string>
+	<string name="skills.sorcerer.frost-nova.3">在身边召唤17个冰霜碎片,每个冰球碎片造成20点混合伤害.</string>
+	<string name="skills.sorcerer.frost-nova.4">在身边召唤19个冰霜碎片,每个冰球碎片造成24点混合伤害.</string>
 
 	<string name="skills.sorcerer.orb-of-winter">寒冬之球</string>
 	<string name="skills.sorcerer.orb-of-winter.create">生成一个缓慢移动的冰球,冰球会对周围释放小冰霜碎片.</string>
